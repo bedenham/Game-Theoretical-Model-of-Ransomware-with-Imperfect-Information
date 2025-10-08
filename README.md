@@ -1,0 +1,2 @@
+This repositry contains the code used to simulate backward induction on the model in "Game Theoretical Model of Ransomware with Imperfect Information" by Byron Denham and Dr. Dale Thompson.
+The program contains a Matlab function with inputs that correspond to different payoff variables and outputs that correspond to the choices and payoffs for each player at each stage of the game based on applying backward induction on an instance of the game with these variables.
